@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XIR4ManscnQUsQITnkFHv/mHZssMCplxG3sa4HbnN1w3BPRVBXIBCT5cro3N+UonZ8S7YUoXp8ULTSo1ienEaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JocBZ\\source\\repos\\EjemploProtocoloUDP\\MensajeServer\\MensajeServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JocBZ\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
