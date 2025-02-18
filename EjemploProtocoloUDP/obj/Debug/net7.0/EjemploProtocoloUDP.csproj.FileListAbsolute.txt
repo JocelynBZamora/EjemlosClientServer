@@ -1,0 +1,15 @@
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\bin\Debug\net7.0\EjemploProtocoloUDP.exe
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\bin\Debug\net7.0\EjemploProtocoloUDP.deps.json
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\bin\Debug\net7.0\EjemploProtocoloUDP.runtimeconfig.json
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\bin\Debug\net7.0\EjemploProtocoloUDP.dll
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\bin\Debug\net7.0\EjemploProtocoloUDP.pdb
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\EjemploProtocoloUDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\EjemploProtocoloUDP.AssemblyInfoInputs.cache
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\EjemploProtocoloUDP.AssemblyInfo.cs
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\EjemploProtocoloUDP.csproj.CoreCompileInputs.cache
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\EjemploProtocoloUDP.sourcelink.json
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\EjemploProtocoloUDP.dll
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\refint\EjemploProtocoloUDP.dll
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\EjemploProtocoloUDP.pdb
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\EjemploProtocoloUDP.genruntimeconfig.cache
+C:\Users\JocBZ\source\repos\EjemploProtocoloUDP\EjemploProtocoloUDP\obj\Debug\net7.0\ref\EjemploProtocoloUDP.dll
