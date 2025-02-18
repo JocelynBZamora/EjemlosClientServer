@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKxOLSekFCZQpZciOKiLBEL7KDcc4BgR9T8KSU6ttbJv/HjEzKPXRNiT3LAExAWulRp8JS6/nmPjqurneLUb5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JocBZ\\source\\repos\\EjemploProtocoloUDP\\Ejercicio2ChatCliente\\Ejercicio2ChatCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JocBZ\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
